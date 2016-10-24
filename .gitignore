@@ -5,3 +5,5 @@ __tmp
 dist
 .DS_Store
 .log
+*-temp-*.elm
+*-temp-*.js
