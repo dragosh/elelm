@@ -1,0 +1,7 @@
+elm-stuff
+node_modules
+__tmp
+.tmp
+dist
+.DS_Store
+.log
