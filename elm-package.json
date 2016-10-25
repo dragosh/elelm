@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Example using `elm-webpack-loader`.",
-    "repository": "https://github.com/moarwick/elm-webpack-starter.git",
+    "summary": "Electron and Elm simple starter kit",
+    "repository": "https://github.com/dragosh/elelm",
     "license": "MIT",
     "source-directories": [
         "app/elm"
