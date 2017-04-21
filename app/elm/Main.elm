@@ -2,7 +2,7 @@ module Main exposing (..)
 
 import Html exposing (Html, Attribute, text, div, input)
 import Html.Attributes exposing (..)
-import Html.App as App exposing (beginnerProgram)
+import Html exposing (beginnerProgram)
 import Html.Events exposing (onInput)
 import Components.Hello exposing (hello)
 
